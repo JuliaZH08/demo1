@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="/style.css">
 </head>
 <body>
-    <h1>Математика чисел</h1>
+    <h1>Mutter</h1>
     <ul>
         <li><a href="plus.php">Сложение</a></li>
         <li><a href="minus.php">Вычитание</a></li>
