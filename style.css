@@ -1,0 +1,38 @@
+p, grey {
+    background-color: rgb(255, 0, 157);
+}
+
+#paragraph {
+    background-color: rgb(0, 255, 115);
+}
+
+.red {
+    background-color: red;
+}
+
+[data-color="blue"] {
+    background-color:blue;
+}
+
+.white {
+    background-color: white;
+}
+
+div.red {
+    background-color: pink;
+}
+
+.menu {
+    font-style: 24px;
+    background-color: grey;
+
+}
+
+.menu > a {
+    text-decoration: none;
+    
+}
+
+.menu a:hover {
+    opacity: 0.5;
+}
